@@ -22,17 +22,7 @@ export const devProjects = [
     image: require(".//../../public/projects/interlock.png"),
     available: true,
   },
-  {
-    id: 4,
-    name: "SkyWatch",
-   description:
-    "SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current weather and forecast for the next 2 days in any city.",
-   technologies: ["React", "CSS", "Chart.js"],
-    github: "",
-    demo: "",
-    image: require(".//../../public/projects/skywatch-flip.png"),
-   available: true,
- },
+  
   {
     id: 2,
     name: "Synthetix",
