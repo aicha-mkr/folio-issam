@@ -44,10 +44,6 @@ const BlogCard = ({
         className="absolute top-[34px] left-[28px] w-[51px]"
       />
 
-      <p className="mt-10 text-[18px] font-[500] leading-relaxed tracking-wide text-[#e4ded7]">
-        {testimonial}
-      </p>
-
       <div className="flex gap-3 sm:absolute sm:bottom-[28px] sm:left-[28px]">
         <Image
           src={profileImg}

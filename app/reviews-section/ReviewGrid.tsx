@@ -22,22 +22,7 @@ const Reviews = () => {
           className="w-[90%] text-center text-[14px] font-semibold uppercase sm:w-[500px] md:w-[550px] md:text-[16px]"
         />
       </div>
-      <motion.div className="grid w-[90%] max-w-[1345px] grid-cols-1 grid-rows-6 place-content-center place-items-center gap-x-6 gap-y-6 sm:grid-cols-2  sm:grid-rows-3 lg:grid-cols-3 lg:grid-rows-1">
-        {reviewDetails.map((review, index) => {
-          return (
-            <ReviewCard
-              key={index}
-              name={review.name}
-              role={review.role}
-              company={review.company}
-              profileImg={review.profileImg}
-              testimonial={review.testimonial}
-              index={index}
-            />
-          );
-        })}
-      </motion.div>
-
+      
       <motion.a
         initial={{ opacity: 0, y: 20 }}
         whileInView={{
