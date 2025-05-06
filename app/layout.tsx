@@ -13,7 +13,7 @@ const syne = Syne({
 export const metadata: Metadata = {
   title: "Issam Thabet — Frontend Engineer",
   description:
-    "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    ".",
   generator: "Next.js",
   applicationName: "Issam Thabet",
   keywords: [
@@ -39,12 +39,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Issam Thabet — Frontend Engineer",
     description:
-      "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
+      "",
+    url: "",
+    siteName: "",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "",
         width: 1200,
         height: 630,
         alt: "Issam Thabet — Frontend Engineer",
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Issam Thabet — SOFTWARE ENGINEER",
     description:
-      "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+      "",
     creator: "Issam__",
     creatorId: "1243720976552144897",
     images: [
